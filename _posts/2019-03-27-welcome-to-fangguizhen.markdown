@@ -4,9 +4,7 @@ title:  "Welcome!"
 date:   2019-03-27 00:36:34 +0800
 categories: fangguizhen update
 ---
-欢迎你们! 这里是方贵震的个人专栏
-
-
+欢迎您! 这里是方贵震的个人专栏
 
 # [Golang知识点](https://github.com/fangguizhen/Notes/blob/master/Golang%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 
@@ -25,3 +23,11 @@ categories: fangguizhen update
 # [Linux](https://github.com/fangguizhen/Notes/blob/master/Linux.md)
 
 # [gRPC](https://github.com/fangguizhen/Notes/blob/master/gRPC.md)
+
+## 持续更新中..
+
+## 问题反馈
+
+- 邮件:1297394526@qq.com
+- QQ:1297394526
+- Github: [@fangguizhen](https://github.com/fangguizhen)
