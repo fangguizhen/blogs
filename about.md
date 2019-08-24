@@ -1,18 +1,9 @@
 ---
 layout: page
 title: About
+date:   2019-08-24 00:36:34 +0800
 permalink: /about/
 ---
 
-这是我个人学习小天地 [jekyllrb.com](https://jekyllrb.com/)
+这是方贵震的博客 [fangguizhen](fangguizhen.github.io)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
