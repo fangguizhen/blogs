@@ -4,7 +4,7 @@ title: About
 date:   2019-08-24 00:36:34 +0800
 permalink: /about/
 ---
-### 这是方贵震个人专栏 [@fangguizhen](https://fangguizhen.github.io)
+欢迎您! 这里是方贵震的个人专栏
 
 # [Golang知识点](https://github.com/fangguizhen/Notes/blob/master/Golang%E7%9F%A5%E8%AF%86%E7%82%B9.md)
 

@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-title:  "Welcome!"
+# title:  "Welcome!"
 date:   2019-08-24 22:55:34 +0800
 categories: fangguizhen update
 ---
